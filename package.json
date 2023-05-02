@@ -31,6 +31,6 @@
     "remark-frontmatter": "^4.0.1",
     "remark-lint-mdash-style": "^1.1.1",
     "remark-preset-lint-node": "^1.16.0",
-    "semver": "^7.3.8"
+    "semver": "^7.4.0"
   }
 }
